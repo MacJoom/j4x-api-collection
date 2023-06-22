@@ -11,7 +11,7 @@ An attempt to help the Joomla! 4.x early adopters mainly focused for developers.
 - Test a generic GET request from the list to then confirm your authentication is working and your base_url and base_path is set correctly.
 
 ## Authentication
-Authentication is done using a Joomla API Token. To get the token, go to your Super User profile in your Joomla 4 Installation and activate then copy the API key. In Postman, go the Ennvorment and then edit the auth_apikey value
+Authentication is done using a Joomla API Token. To get the token, go to your Super User profile in your Joomla 4 Installation and activate then copy the API key. In Postman, go the evironment and then edit the auth_apikey value
 - enter your API key value there, Inital and Current value
 - Click Save.
 
