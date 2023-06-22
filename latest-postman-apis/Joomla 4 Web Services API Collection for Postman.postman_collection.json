@@ -2,7 +2,7 @@
 	"info": {
 		"_postman_id": "4f03f3da-2199-49ac-b850-077350315dd8",
 		"name": "Joomla 4 Web Services API Collection for Postman",
-		"description": "Collection of Joomla 4 Web Services API Endpoints for Postman. See https://github.com/alexandreelise/j4x-api-collection for updates and information.",
+		"description": "Collection of Joomla 4 Web Services API Endpoints for Postman. See [https://github.com/MacJoom/j4x-api-collection](https://github.com/MacJoom/j4x-api-collection) for updates and information.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
 		"_exporter_id": "20976681",
 		"_collection_link": "https://www.postman.com/macjoom/workspace/joomla/collection/20976681-4f03f3da-2199-49ac-b850-077350315dd8?action=share&creator=20976681&source=collection_link"
